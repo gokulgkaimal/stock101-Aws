@@ -1,6 +1,6 @@
 # Stock101 AWS  Project
 
-This repository documents my freelance Cloud & DevOps project for [Stock101.org](https://www.stock101.org), where I architected, deployed, and managed AWS infrastructure with a focus on scalability, performance, and cost optimization.
+This repository documents my freelance Cloud & DevOps project for [Stock101.com](https://www.stock101.com), where I architected, deployed, and managed AWS infrastructure with a focus on scalability, performance, and cost optimization.
 
 ---
 
