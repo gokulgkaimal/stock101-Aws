@@ -55,5 +55,5 @@ This repository documents my freelance Cloud & DevOps project for [Stock101.com]
 ---
 
 ## 🔗 Links
-- [Stock101 Website](https://www.stock101.com)
+- [Stock101 Website](https://stock101.com)
 
