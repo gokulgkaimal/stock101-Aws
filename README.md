@@ -20,7 +20,7 @@ This repository documents my freelance Cloud & DevOps project for [Stock101.com]
 ## 📂 Repository Contents
 
 - `screenshots/` → AWS console screenshots verifying the deployed services.
-- `docs/` → Experience letter, project write-up, troubleshooting notes.
+
 
 ---
 
@@ -49,11 +49,11 @@ This repository documents my freelance Cloud & DevOps project for [Stock101.com]
 ---
 
 ## 📜 Verification
-- Includes official **experience letter** from Stock101 (see `docs/experience-letter.pdf`).
+
 - Screenshots of AWS services configured for this project are provided under `screenshots/`.
 
 ---
 
 ## 🔗 Links
-- [Stock101 Website](https://www.stock101.org)
+- [Stock101 Website](https://www.stock101.com)
 
